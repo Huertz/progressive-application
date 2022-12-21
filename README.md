@@ -76,6 +76,8 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 
+[alt text](./media/Screenshot%202022-12-21%20at%202.30.38%20AM.png)
+
 ## Credits
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
