@@ -55,4 +55,5 @@ export const getDb = async () => {
   console.log('🚀 - data saved to the database', result);
   return result;
 };
+
 initdb();
