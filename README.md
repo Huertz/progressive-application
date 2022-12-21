@@ -9,7 +9,7 @@
   I builded this project because I wanted to know how to create and understand the concpets of how PWA works
 
 - What did you learn?
-  I learned that stackoverflow is very helpful tool. It provides a user with a lot of resources. In addition I also learned that looking in the console option to know where the error is located. It helps a lot of time and energy. I'm also familiar with creating varables, funciontion, adding multiple arays and creating a password generator.
+  I learned that stackoverflow is very helpful tool. It provides a user with a lot of resources. In addition I also learned that looking in the console option to know where the error is located. It helps a lot of time and energy.
 
 ## Table of Contents (Optional)
 
