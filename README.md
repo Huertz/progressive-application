@@ -18,6 +18,10 @@
 - [Credits](#credits)
 - [License](#license)
 
+## Usage
+
+![alt text](./media/Screenshot%202022-12-21%20at%202.30.38%20AM.png)
+
 ## Installation
 
 clone repostory
@@ -84,7 +88,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 
-[alt text](./media/Screenshot%202022-12-21%20at%202.30.38%20AM.png)
+![alt text](./media/Screenshot%202022-12-21%20at%202.30.38%20AM.png)
 
 ## Credits
 
