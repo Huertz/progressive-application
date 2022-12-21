@@ -2,13 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - What was your motivation?
-  My motiavtion for this project was to able to understand the concepts of mongodb better. I know feel that I'm confident enough with mongodb for now
+  My motiavtion for this project was to able to understand the concepts of PWA better.
 
 - Why did you build this project?
-  I builded this prohject because I wanted to know how to create and understand the concpets of mongodb in a greater extend
+  I builded this project because I wanted to know how to create and understand the concpets of how PWA works
 
 - What did you learn?
   I learned that stackoverflow is very helpful tool. It provides a user with a lot of resources. In addition I also learned that looking in the console option to know where the error is located. It helps a lot of time and energy. I'm also familiar with creating varables, funciontion, adding multiple arays and creating a password generator.
@@ -21,6 +19,16 @@ Provide a short description explaining the what, why, and how of your project. U
 - [License](#license)
 
 ## Installation
+
+clone repostory
+
+run the commands:
+
+npm install
+
+npm run start
+
+open http://localhost:3000/
 
 ## Accepted Criteria
 
@@ -84,7 +92,7 @@ If you used any third-party assets that require attribution, list the creators w
 
 [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[Mongodb]()
+[Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 ## License
 
